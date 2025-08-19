@@ -2,15 +2,15 @@
 
 *COMPANY*: CODETECH IT SOLUTIONS
 
-*NAME*: MANTRI KRISHNA MAHITHA
+*NAME*: MAMIDI JAHNAVI
 
-*INTERN ID*: CT04DN1040
+*INTERN ID*: CT04DZ1374
 
 *DOMAIN*: FULL STACK WEB DEVELOPMENT
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELA SANTHOSH KUMAR
 
 ##This task involves creating a responsive weather web application that retrieves and displays current weather information for any city input by the user dynamically. The application utilizes the public API provided by wttr.in, which provides weather information in JSON format with no API key or user authentication required. This makes it suitable for learning and beginners.
 
